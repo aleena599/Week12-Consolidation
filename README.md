@@ -1,4 +1,13 @@
-# Week12-ConsolidationOut of everything that I have done in this course up to now, the most remarkable thing was redoing my digital workflow from the first few weeks of the course, more precisely, the week we tried Pelican and R for the first time. During the initial attempt, I was almost mechanically following the steps. But when I got authentic errors and saw the Discord community's way of dealing with them, I changed my approach, rather than just copying the instructions, I tried to understand the logic behind them. I focused on the reasons for the failure of things, not just on what the next line of code was supposed to be.
+
+
+
+
+
+
+# Week12-Consolidation
+
+
+Out of everything that I have done in this course up to now, the most remarkable thing was redoing my digital workflow from the first few weeks of the course, more precisely, the week we tried Pelican and R for the first time. During the initial attempt, I was almost mechanically following the steps. But when I got authentic errors and saw the Discord community's way of dealing with them, I changed my approach, rather than just copying the instructions, I tried to understand the logic behind them. I focused on the reasons for the failure of things, not just on what the next line of code was supposed to be.
 The transition from following to comprehending is, in my opinion, the most significant change.
             Technical difficulties persisted for people the same way they had for me. Pelican themes were not working due to the curl command, Windows users had to manually download files, an R installer was not clearly identified, and datasets were not being loaded because of column names being either missing or mismatched. I experienced the conversation and it made me want to fill the huge gap between reproduction and replication.
          When I was revisiting the material, it became obvious to me that a lot of students were facing the same technical problems as I did at first. The curl command would not work properly so the Pelican themes could not be downloaded. Windows users were to invent totally different workarounds like downloading files one by one. R installers were different according to the operating system and the exact version number mattered. Some datasets did not get loaded because their column names were not the same as the code; in some instances, the URLs had changed, the ADS interface had been upgraded or the files simply did not exist anymore.
